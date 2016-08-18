@@ -8,7 +8,7 @@ A library to get simple weather reports for locations using the [Apixu API](http
 
     ```elixir
     def deps do
-      [{:juracan, git: "git@github.com:Waasi/juracan.git", tag: "v0.1.0" }]
+      [{:juracan, git: "https://github.com/Waasi/juracan.git", tag: "v0.1.0" }]
     end
     ```
 
